@@ -8,7 +8,6 @@ import java.util.Locale;
  * Autor: Bernardo
  * Data: Junho de 2025
  */
-
 public class Primeir_Java {
 
     public static void main(String[] args) {
@@ -34,10 +33,17 @@ public class Primeir_Java {
         System.out.printf("Você digitou: %.2f%n", salario);
         
         // Entrada de caractere (char)
-        char a; 
         System.out.print("Digite um caractere: ");
-        a = sc.next().charAt(0);
-        System.out.println("Você digitou: " + a);
+        char carac = sc.next().charAt(0);
+        System.out.println("Você digitou: " + carac);
+        
+        // Ler vários dados na mesma linha
+        System.out.println("Digite uma palavra, um número inteiro e um número decimal (separados por espaço):");
+        String x = sc.next();
+        int y = sc.nextInt();
+        double z = sc.nextDouble();
+        System.out.println("Dados digitados: " + x + " " + y + " " + z);
+        
         
         // Encerra o Scanner
         sc.close();
