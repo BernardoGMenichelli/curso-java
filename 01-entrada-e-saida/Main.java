@@ -8,6 +8,7 @@ import java.util.Locale;
  * Autor: Bernardo
  * Data: Junho de 2025
  */
+
 public class Primeir_Java {
 
     public static void main(String[] args) {
@@ -31,7 +32,13 @@ public class Primeir_Java {
         System.out.print("Digite seu salário: ");
         double salario = sc.nextDouble();
         System.out.printf("Você digitou: %.2f%n", salario);
-
+        
+        // Entrada de caractere (char)
+        char a; 
+        System.out.print("Digite um caractere: ");
+        a = sc.next().charAt(0);
+        System.out.println("Você digitou: " + a);
+        
         // Encerra o Scanner
         sc.close();
     }
