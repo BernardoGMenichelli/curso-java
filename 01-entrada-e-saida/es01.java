@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Locale;
 
 /**
- * Exemplo básico de entrada de dados em Java com Scanner.
+ * Entrada de dados em Java com Scanner.
  * Autor: Bernardo
  * Data: Junho de 2025
  */
