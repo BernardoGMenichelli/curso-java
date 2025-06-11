@@ -2,7 +2,11 @@ package com.mycompany.fixacaofinal;
 
 import java.util.Scanner;
 import java.util.Locale;
-
+/**
+ * Exercícios de estrutura sequencial em Java.
+ * Autor: Bernardo
+ * Data: Junho de 2025
+ */
 public class Fixacaofinal {
 
     public static void main(String[] args) {
