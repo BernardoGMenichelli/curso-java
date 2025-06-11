@@ -1,6 +1,6 @@
 package com.mycompany.func_matematicas;
 /**
- * Entrada de dados em Java com Scanner.
+ * Funções matemáticas em Java.
  * Autor: Bernardo
  * Data: Junho de 2025
  */
