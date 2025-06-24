@@ -15,7 +15,7 @@ public class Estrutura_repetitiva {
         int x = sc.nextInt();
         
         int soma = 0;
-        //V: executa e vola
+        //V: executa e volta
         //F: pula fora
         while(x != 0){ //quando digitar 0 o while se torna false e para de repetir
             soma += x;
