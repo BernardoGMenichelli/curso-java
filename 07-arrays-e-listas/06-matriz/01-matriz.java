@@ -3,7 +3,7 @@ package com.mycompany.matriz;
 /**
  * Matriz em Java.
  * Autor: Bernardo
- * Data: Junho de 2025
+ * Data: Julho de 2025
  */
 import java.util.Scanner;
 
