@@ -3,7 +3,7 @@ package com.mycompany.exerc1;
 /**
  * Exercício de array em Java. 
  * Autor: Bernardo 
- * Data: Junho de 2025
+ * Data: Julho de 2025
  */
 import java.util.Scanner;
 
