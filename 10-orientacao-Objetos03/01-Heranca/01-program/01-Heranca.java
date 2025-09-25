@@ -1,7 +1,7 @@
 package com.mycompany.heranca;
 
 /**
- * Encapsulamento em Java. 
+ * Herança em Java. 
  * Autor: Bernardo 
  * Data: Setembro de 2025
  */
