@@ -3,7 +3,7 @@ package application;
 /**
  * Tratamento de exceções em Java. 
  * Autor: Bernardo 
- * Data: Setembro de 2025
+ * Data: Outubro de 2025
  */
 
 import java.time.LocalDate;
