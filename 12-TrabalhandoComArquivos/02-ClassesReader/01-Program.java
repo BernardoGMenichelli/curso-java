@@ -1,7 +1,7 @@
 package com.mycompany.classesreader;
 
 /**
- * Lendo arquivos de texto em Java.
+ * Classes reader em Java.
  * Autor: Bernardo
  * Data: Novembro de 2025
  */
