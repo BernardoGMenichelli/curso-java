@@ -1,5 +1,11 @@
 package application;
 
+/**
+ * Exercicio de interface em Java.
+ * Autor: Bernardo
+ * Data: Janeiro de 2026
+ */
+
 import model.services.FreeStreamingService;
 import model.services.NetflixService;
 import model.services.StreamingService;
