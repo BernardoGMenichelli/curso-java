@@ -1,5 +1,11 @@
 package application;
 
+/**
+ * Exercicio de interface em Java.
+ * Autor: Bernardo
+ * Data: Janeiro de 2026
+ */
+
 import model.services.CreditCardPayment;
 import model.services.DebitCardPayment;
 import model.services.Payment;
